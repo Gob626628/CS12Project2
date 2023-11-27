@@ -9,6 +9,7 @@ class Main
 
         // calling the GUI constructor
         GUI gui = new GUI();
+        String ron = "dsbffb";
 
 
     }
